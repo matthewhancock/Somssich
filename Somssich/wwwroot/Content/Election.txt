@@ -1,10 +1,20 @@
-﻿Nov. 3, 2020   General Election polls open from 8AM to 7PM
-(for US Congress, Governor, Executive Council, Rockingham County Officials, State Senators, State Representatives, any ballot questions)
-Poll location see below
+﻿<h2>Next Dates for Elections</h2>
+<b>Nov. 2, 2021   Municipal Elections polls open from 8AM to 7PM</b>
+(for City Council, City Mayor, School Board, Fire Commissioner, Police Commissioner, Election Workers at all Wards1-5, Moderator, Clerk, Selectman and Registrar of Voters,        any ballot questions)
 
+
+<b>Nov. 3, 2020   General Election polls open from 8AM to 7PM</b>
+(for US Congress, Governor, Executive Council, Rockingham County Officials, State Senators, State Representatives,  any ballot questions)
+
+Voting Location for Ward 3: <b>Senior Activity Center, 125 Cottage St.</b>
+
+For More Info, Absentee Ballots etc. contact City Clerk at (603) 610-7245 <b>or go to the <a href="https://www.cityofportsmouth.com" target="_blank">City of Portsmouth's website</a></b>.  
+
+<hr />
 <img src="/image/election-democratic-portsmouth-candidates-900x500.jpg" alt="Gerry Ward (Ward 4), Jackie Cali-Pitts (Wards 1,2,4,5), Tamara Le (Ward 3, Greenland, Newington, North Hampton), Becky McBeath (Ward 2), Laura Pantelakos (Ward 1), Peter Somssich (Ward 4), David Muese (Ward 5)" />
-Current Incumbents: Portsmouth State Representatives from 2018 election (from left to right):
+<b>Current Incumbents:</b> Portsmouth State Representatives from 2018 election (from left to right):
 Gerry Ward (Ward 4), Jackie Cali-Pitts (Wards 1,2,4,5), Tamara Le (Ward 3, Greenland, Newington, North Hampton), Becky McBeath (Ward 2), Laura Pantelakos (Ward 1), Peter Somssich (Ward 3), David Muese (Ward 5)
-<hr />Voting Location for Ward 3: Senior Activity Center, 125 Cottage St.
 
-For More Info, Absentee Ballots etc. contact City Clerk at (603) 610-7245 or go to the <a href="https://www.cityofportsmouth.com" target="_blank">City of Portsmouth's website</a>.  
+<img src="/image/election-democratic-joan-hamblet-500x333.jpg" alt="Joan Hamblet (Ward 3, Greenland, Newington, North Hampton)" />
+<b>Current Incumbents:</b> Portsmouth State Representatives from 2020 election (from left to right):
+Gerry Ward (Ward 4), Jackie Cali-Pitts (Wards 1,2,4,5), Tamara Le (Ward 3, Greenland, Newington, North Hampton), Joan Hamblet (Ward 3, Greenland, Newington, North Hampton), Becky McBeath (Ward 2), Laura Pantelakos (Ward 1), Peter Somssich (Ward 3), David Muese (Ward 5)
