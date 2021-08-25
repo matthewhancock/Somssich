@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+
+    <style>
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box
+        }
+
+        html {
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+        }
+
+        body {
+            width: 90vw;
+            max-width: 1200px;
+            background-color: #eee;
+            display: flex;
+            margin: 0 auto;
+            /* border: 1px solid orange; */
+            height: 100vh
+        }
+
+        hr {
+            background-color: #9bb4bf;
+            border:0;
+            height:1px;
+            width: 96%;
+            margin: 0 auto
+        }
+
+        img {
+            display: block;
+            margin: 0 auto;
+            max-width: 90%;
+        }
+
+        ul {
+            margin:0;
+            padding:0 2rem;
+        }
+
+        #h {
+            background-color: #5a7b9a;
+            height: 80vh;
+            margin-top: 10vh
+        }
+
+        #n {
+            /* padding: 1rem */
+        }
+        #n a {
+            display:block;
+            text-decoration: none;
+            color: #eee;
+            padding:.6rem 1rem;
+        }
+        #n a:hover {
+            color:#fff;
+            background-color: #6b7c84; 
+            text-decoration: underline;
+        }
+
+        #m {
+            background-color: #fff;
+            height: 90vh;
+            margin-top: 5vh;
+            overflow: auto;
+            flex: 1;
+            border-left: .5rem solid #6b7c84;
+            padding: 1rem
+        }
+
+        #logo {
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: 2em;
+            font-weight: bold;
+            padding: .5rem 1.5rem;
+            color: #fff;
+        }
+    </style>
+</head>
+
+<body>
+    <header id="h">
+        <aside id="logo">
+            <div>Peter</div>
+            <div>Somssich</div>
+        </aside>
+        <hr />
+        <nav id="n">
+            <a href="">Home</a>
+            <a href="">Biography</a>
+            <a href="">Local Issues</a>
+            <a href="">State Issues</a>
+            <a href="">Letter to Editors</a>
+            <a href="">Press Releases</a>
+            <a href="">Contact Me</a>
+            <a href="">Contribute/Volunteer</a>
+        </nav>
+        <hr />
+        <footer id="h-f">
+            Facebook
+            <br />
+            Twitter
+        </footer>
+    </header>
+    <main id="m">
+        Content
+    </main>
+</body>
+
+</html>

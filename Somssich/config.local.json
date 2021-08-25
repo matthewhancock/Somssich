@@ -1,0 +1,14 @@
+﻿{
+  "stripe": {
+    "secretkey": "sk_test_kZiUMFiNKquDHUBVA8gCFjVl",
+    "publickey": "pk_test_YKzZJx36k86yPytrcG0LdJCy"
+  },
+  "queue": {
+    "name": "emailbot",
+    "key": "AtkSIeOoFtZg6f9/G8eW3DNGCOW8vPES2ffMv3H3yzUxL3rBHHTXo5ceFdKyD0C6kT8J8ig5NRfq5u9L91mBZg=="
+  },
+  "helpelect": {
+    "donate": { "confirmationemail": { "to": "meshent@gmail.com" } },
+    "support": { "email": { "to": "meshent@gmail.com" } }
+  }
+}
