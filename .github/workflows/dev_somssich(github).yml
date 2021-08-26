@@ -4,10 +4,10 @@
 name: Build and deploy ASP.Net Core app to Azure Web App - somssich(github)
 
 on:
-push:
-branches:
-- dev
-workflow_dispatch:
+  push:
+    branches:
+    - dev
+  workflow_dispatch:
 
 jobs:
   build:
@@ -49,10 +49,10 @@ jobs:
         name: .net-app
 
     - name: Deploy to Azure Web App
-    id: deploy-to-webapp
-    uses: azure/webapps-deploy@v2
-    with:
-      app-name: 'somssich'
-      slot-name: 'github'
-      publish-profile: ${{ secrets.AzureAppService_PublishProfile_f72f547ebb2e42b984cd52a3fc262d52 }}
-      package: .
+      id: deploy-to-webapp
+      uses: azure/webapps-deploy@v2
+      with:
+        app-name: 'somssich'
+        slot-name: 'github'
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f72f547ebb2e42b984cd52a3fc262d52 }}
+        package: .
