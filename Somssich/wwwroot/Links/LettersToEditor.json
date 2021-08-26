@@ -1,5 +1,65 @@
 ﻿[
   {
+    "title": "Complete Streets Project on Peverly Hill Road Good for Home Values",
+    "url": "https://www.seacoastonline.com/story/opinion/columns/guest/2021/04/22/somssich-complete-streets-good-home-values/7339380002/",
+    "date": "2021/04/22",
+    "tags": [ "local" ]
+  },
+  {
+    "title": "Response to Lemonade Stand Bill by Portsmouth Republican Chair Alan Forbes",
+    "url": "https://www.seacoastonline.com/story/opinion/letters/2021/05/07/letter-democrats-love-lemonade-stands-too-mr-forbes/4988010001/",
+    "date": "2021/05/07",
+    "tags": [ "local" ]
+  },
+  {
+    "title": "Call to Open Spinnaker Point Rec Center",
+    "url": "https://www.seacoastonline.com/story/news/local/2021/04/05/portsmouth-spinnaker-point-rec-center-closed-city-eyes-upgrade/4851487001/",
+    "date": "2021/04/05",
+    "tags": [ "local" ]
+  },
+  {
+    "title": "Rep. Somssich Volunteers for Vaccine Trial",
+    "url": "https://www.seacoastonline.com/story/news/local/2020/11/25/portsmouth-rep-covid-19-vaccine-trials-urges-more-people-join/6420902002/",
+    "date": "2020/11/25",
+    "tags": [ "local" ]
+  },
+  {
+    "title": "2020 Armistice Day Honoring Portsmouth Sacrifice",
+    "url": "https://www.seacoastonline.com/story/news/2020/11/14/honoring-wwi-veterans-and-portsmouth-veteran-who-honored-them/6262887002/",
+    "date": "2020/11/14",
+    "tags": [ "local" ]
+  },
+  {
+    "title": "Rep. Somssich Asks for Support to Move NH Ahead",
+    "url": "https://www.seacoastonline.com/story/opinion/letters/2020/10/25/opinion-letter-rep-somssich-want-move-new-hampshire-forward/6031956002/",
+    "date": "2020/10/25",
+    "tags": [ "local" ]
+  },
+  {
+    "title": "Governor Sununu's Budget Cruel and Dangerous",
+    "url": "https://www.seacoastonline.com/story/opinion/columns/guest/2021/07/17/op-ed-governor-sununus-budget-cruel-and-dangerous/7979423002/",
+    "date": "2021/07/17",
+    "tags": [ "state" ]
+  },
+  {
+    "title": "Clean Energy Technologies Can Benefit NH with Roger Stephenson (UCS) and Rep. Peter Somssich",
+    "url": "https://www.concordmonitor.com/Our-Turn-Clean-energy-technologies-(with-a-strategy)-can-benefit-us-40583338",
+    "date": "2021/05/27",
+    "tags": [ "state" ]
+  },
+  {
+    "title": "A Path to New Hampshire's Energy Future with Former Rep. Ken Wells ",
+    "url": "https://www.concordmonitor.com/Our-Turn-New-Hampshire-s-energy-future-40120350",
+    "date": "2021/04/27",
+    "tags": [ "state" ]
+  },
+  {
+    "title": "Environment and Energy Resources with Rob Werner (League of Conservation Voters)",
+    "url": "https://www.concordmonitor.com/Our-Turn-New-Hampshire-s-environment-and-energy-resources-40297408",
+    "date": "2021/05/06",
+    "tags": [ "state" ]
+  },
+  {
     "title": "Local Media Protects NH Taxpayer Dollars and Democracy",
     "url": "https://www.seacoastonline.com/opinion/20200911/opinionletter-local-media-protects-nh-taxpayer-dollars-and-democracy",
     "date": "2020/09/11",
@@ -160,7 +220,7 @@
     "tags": [ "local" ]
   },
   {
-    "title": "HB 510 Raising Vehicle Registration Fees to Provide Funding to NH DOT Road and Bridge Maintenance including Noise Abatement for Portsmouth’s Pannaway Manor Neighborhood (pdf)",
+    "title": "HB 510 Raising Vehicle Registration Fees to Provide Funding to NH DOT Road and Bridge Maintenance including Noise Abatement for Portsmouth's Pannaway Manor Neighborhood (pdf)",
     "url": "https://a.p-vo.net/somssich/2019/2019%20HB%20510%20Raising%20Auto%20Reg%20and%20Noise%20Abatement.pdf",
     "date": "2019/02/14",
     "tags": [ "local" ]
@@ -220,7 +280,7 @@
     "tags": [ "state" ]
   },
   {
-    "title": "My Turn: New Hampshire’s path toward 100 percent renewable energy by 2040",
+    "title": "My Turn: New Hampshire's path toward 100 percent renewable energy by 2040",
     "url": "https://www.concordmonitor.com/A-NH-plan-for-100-percent-renewable-energy-by-2040-14357738",
     "date": "2017/12/16",
     "tags": [ "state" ]
@@ -230,6 +290,30 @@
     "url": "https://a.p-vo.net/somssich/2018/NH%20Renewable%20Energy%20Strategy.pdf",
     "date": "2018/12/16",
     "tags": [ "state" ]
+  },
+  {
+    "title": "Human Rights Resolution HCR5",
+    "url": "https://a.p-vo.net/somssich/2021/2021%20HCR%205.pdf",
+    "date": "2021/04/05",
+    "tags": [ "national" ]
+  },
+  {
+    "title": "Human Rights Resolution HCR5 - Letter to China Ambassador (Hong Kong)",
+    "url": "https://a.p-vo.net/somssich/2021/HCR5%20Human%20Rights%20Hong%20Kong.pdf",
+    "date": "2021/04/09",
+    "tags": [ "national" ]
+  },
+  {
+    "title": "Human Rights Resolution HCR5 - Letter to Hungary Ambassador",
+    "url": "https://a.p-vo.net/somssich/2021/HCR5%20Human%20Rights%20Hungary.pdf",
+    "date": "2021/04/09",
+    "tags": [ "national" ]
+  },
+  {
+    "title": "Human Rights Resolution HCR5 - Letter to Poland Ambassador",
+    "url": "https://a.p-vo.net/somssich/2021/HCR5%20Human%20Rights%20Poland.pdf",
+    "date": "2021/04/09",
+    "tags": [ "national" ]
   },
   {
     "title": "U.S. leaving Iran nuclear deal makes world less safe",
@@ -244,7 +328,7 @@
     "tags": [ "national" ]
   },
   {
-    "title": "Assemblymember O’Donnell, CA regarding CA plans for renewable energy (pdf)",
+    "title": "Assemblymember O'Donnell, CA regarding CA plans for renewable energy (pdf)",
     "url": "https://a.p-vo.net/somssich/2018/AssMembCA%20O%27Donnell.pdf",
     "date": "2018/03/13",
     "tags": [ "national" ]
