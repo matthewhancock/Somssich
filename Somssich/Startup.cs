@@ -85,6 +85,6 @@ namespace somssich {
             throw new NotImplementedException();
         }
 
-        private static DateTime LastUpdated => new DateTime(2021, 8, 24, 9, 17, 0);
+        private static DateTime LastUpdated => new DateTime(2022, 1, 25, 23, 29, 0);
     }
 }
